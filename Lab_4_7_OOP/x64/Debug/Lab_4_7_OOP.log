@@ -1,0 +1,116 @@
+﻿  UI.cpp
+  main.cpp
+  Running Code Analysis for C/C++...
+  Generating Code...
+  Lab_4_7_OOP.vcxproj -> C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\x64\Debug\Lab_6_7_OOP.exe
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Produs.h(36): warning C26432: If you define or delete any default operation in the type 'class Produs', define or delete them all (c.21).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Cos.cpp(37): warning C26823: Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Cos.cpp(37): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Cos.cpp(40): warning C26823: Dereferencing a possibly null pointer 'allotemp.5' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Cos.cpp(41): warning C26823: Dereferencing a possibly null pointer 'allotemp.6' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Cos.cpp(41): warning C26823: Dereferencing a possibly null pointer 'allotemp.7' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\RepoPFile.h(17): warning C26436: The type 'class RepoPFile' with a virtual function needs either public virtual or protected non-virtual destructor (c.35).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\main.cpp(15): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(13): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(13): warning C26823: Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(20): warning C26436: The type 'class RepoP' with a virtual function needs either public virtual or protected non-virtual destructor (c.35).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(25): warning C26823: Dereferencing a possibly null pointer 'p' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(35): warning C26823: Dereferencing a possibly null pointer 'allotemp.4' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(37): warning C26823: Dereferencing a possibly null pointer 'allotemp.11' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(42): warning C26823: Dereferencing a possibly null pointer 'p' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(46): warning C26823: Dereferencing a possibly null pointer 'allotemp.6' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(50): warning C26823: Dereferencing a possibly null pointer 'allotemp.12' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(59): warning C26823: Dereferencing a possibly null pointer 'allotemp.6' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(67): warning C26823: Dereferencing a possibly null pointer 'p' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(70): warning C26823: Dereferencing a possibly null pointer 'allotemp.7' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(84): warning C26823: Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(84): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(84): warning C26823: Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(87): warning C26823: Dereferencing a possibly null pointer 'allotemp.4' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(100): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(100): warning C26823: Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(100): warning C26823: Dereferencing a possibly null pointer 'allotemp.4' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(101): warning C26823: Dereferencing a possibly null pointer 'allotemp.6' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(101): warning C26823: Dereferencing a possibly null pointer 'allotemp.7' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(101): warning C26823: Dereferencing a possibly null pointer 'allotemp.8' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(103): warning C26823: Dereferencing a possibly null pointer 'allotemp.10' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(103): warning C26823: Dereferencing a possibly null pointer 'allotemp.9' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(113): warning C26823: Dereferencing a possibly null pointer 'allotemp.15' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(113): warning C26823: Dereferencing a possibly null pointer 'allotemp.16' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(113): warning C26823: Dereferencing a possibly null pointer 'allotemp.17' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(123): warning C26823: Dereferencing a possibly null pointer 'allotemp.18' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Repo_produse.cpp(123): warning C26823: Dereferencing a possibly null pointer 'allotemp.19' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(13): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(13): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(15): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(16): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(16): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(17): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(27): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(33): warning C26823: Dereferencing a possibly null pointer 'p' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(38): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(41): warning C26440: Function '`ServiceP::filtrare_pret'::`2'::<lambda_1>::operator()' can be declared 'noexcept' (f.6).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(41): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(49): warning C26822: Dereferencing a null pointer 'nullptr' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(55): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(56): warning C26823: Dereferencing a possibly null pointer 'result.->' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(63): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(63): warning C26823: Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(63): warning C26823: Dereferencing a possibly null pointer 'allotemp.4' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(70): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(70): warning C26823: Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(74): warning C26823: Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(74): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(75): warning C26823: Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(75): warning C26823: Dereferencing a possibly null pointer 'allotemp.4' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(75): warning C26823: Dereferencing a possibly null pointer 'allotemp.5' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(81): warning C26823: Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(81): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(88): warning C26823: Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(88): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(90): warning C26823: Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(97): warning C26823: Dereferencing a possibly null pointer '<begin>$L0' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(99): warning C26823: Dereferencing a possibly null pointer '<begin>$L1' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(105): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(118): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(140): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(142): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(144): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(118): warning C26458: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(140): warning C26458: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(142): warning C26458: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(144): warning C26458: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(110): warning C26823: Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(141): warning C26823: Dereferencing a possibly null pointer 'allotemp.17' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(141): warning C26823: Dereferencing a possibly null pointer 'allotemp.18' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(143): warning C26823: Dereferencing a possibly null pointer 'allotemp.19' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(143): warning C26823: Dereferencing a possibly null pointer 'allotemp.20' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(156): warning C26823: Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(166): warning C26823: Dereferencing a possibly null pointer 'allotemp.13' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(167): warning C26823: Dereferencing a possibly null pointer 'allotemp.15' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(188): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(191): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(194): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(188): warning C26458: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(191): warning C26458: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(194): warning C26458: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\Service_magazin.cpp(179): warning C26823: Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\RepoPFile.cpp(9): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\RepoPFile.cpp(22): warning C26823: Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\RepoPFile.cpp(22): warning C26823: Dereferencing a possibly null pointer 'allotemp.4' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\RepoPFile.cpp(22): warning C26823: Dereferencing a possibly null pointer 'allotemp.5' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\RepoPFile.cpp(33): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\RepoPFile.cpp(36): warning C26823: Dereferencing a possibly null pointer 'p' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\UI.cpp(14): warning C26823: Dereferencing a possibly null pointer 'p' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\UI.cpp(67): warning C26823: Dereferencing a possibly null pointer '(this->UI::service)' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\UI.cpp(67): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\UI.cpp(73): warning C26823: Dereferencing a possibly null pointer 'allotemp.4' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\UI.cpp(84): warning C26823: Dereferencing a possibly null pointer '(this->UI::service)' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\UI.cpp(108): warning C26823: Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\UI.cpp(108): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\UI.cpp(114): warning C26823: Dereferencing a possibly null pointer '(this->UI::service)' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\UI.cpp(159): warning C26823: Dereferencing a possibly null pointer '(this->UI::service)' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\validator.cpp(18): warning C26823: Dereferencing a possibly null pointer 'msg' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\validator.cpp(25): warning C26823: Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\validator.cpp(25): warning C26823: Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\validator.cpp(25): warning C26823: Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).

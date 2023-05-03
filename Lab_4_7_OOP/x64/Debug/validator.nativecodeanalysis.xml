@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Produs.h</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class Produs', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>Produs::{ctor}</FUNCTION>
+    <DECORATED>??0Produs@@QEAA@AEBV0@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>validator.cpp</FILENAME>
+      <LINE>18</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'msg' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>&lt;&lt;</FUNCTION>
+    <DECORATED>??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBVValidateException@@@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>18</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>validator.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>testValidator</FUNCTION>
+    <DECORATED>?testValidator@@YAXXZ</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>23</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>24</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>validator.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>testValidator</FUNCTION>
+    <DECORATED>?testValidator@@YAXXZ</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>23</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>24</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>validator.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>testValidator</FUNCTION>
+    <DECORATED>?testValidator@@YAXXZ</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>23</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>24</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>validator.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

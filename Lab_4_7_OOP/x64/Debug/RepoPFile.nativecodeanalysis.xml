@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Produs.h</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class Produs', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>Produs::{ctor}</FUNCTION>
+    <DECORATED>??0Produs@@QEAA@AEBV0@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>RepoPFile.h</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26436</DEFECTCODE>
+    <DESCRIPTION>The type 'class RepoPFile' with a virtual function needs either public virtual or protected non-virtual destructor (c.35).</DESCRIPTION>
+    <FUNCTION>RepoPFile::adauga_repo</FUNCTION>
+    <DECORATED>?adauga_repo@RepoPFile@@UEAAXAEBVProdus@@@Z</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>RepoPFile.cpp</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>37</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>RepoPFile::loadFromFile</FUNCTION>
+    <DECORATED>?loadFromFile@RepoPFile@@AEAAXXZ</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>4</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>6</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>6</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>7</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>7</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>9</LINE>
+        <COLUMN>37</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>9</LINE>
+        <COLUMN>37</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>9</LINE>
+        <COLUMN>37</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>RepoPFile.cpp</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>RepoPFile::loadFromFile</FUNCTION>
+    <DECORATED>?loadFromFile@RepoPFile@@AEAAXXZ</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>22</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>RepoPFile.cpp</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.4' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>RepoPFile::loadFromFile</FUNCTION>
+    <DECORATED>?loadFromFile@RepoPFile@@AEAAXXZ</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>22</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>RepoPFile.cpp</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>53</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.5' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>RepoPFile::loadFromFile</FUNCTION>
+    <DECORATED>?loadFromFile@RepoPFile@@AEAAXXZ</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>22</LINE>
+        <COLUMN>53</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>RepoPFile.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>RepoPFile::writeToFile</FUNCTION>
+    <DECORATED>?writeToFile@RepoPFile@@AEAAXXZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>27</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>28</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>28</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>29</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>29</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>32</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>32</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>33</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>RepoPFile.cpp</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'p' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>RepoPFile::writeToFile</FUNCTION>
+    <DECORATED>?writeToFile@RepoPFile@@AEAAXXZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>RepoPFile.cpp</FILENAME>
+        <LINE>36</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,1827 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26432",
+          "message": {
+            "text": "If you define or delete any default operation in the type 'class Produs', define or delete them all (c.21)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/Produs.h"
+                },
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 3,
+                  "endLine": 36,
+                  "endColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Produs::{ctor}",
+                  "decoratedName": "??0Produs@@QEAA@AEBV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26436",
+          "message": {
+            "text": "The type 'class RepoPFile' with a virtual function needs either public virtual or protected non-virtual destructor (c.35)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/RepoPFile.h"
+                },
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 7,
+                  "endLine": 17,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "RepoPFile::adauga_repo",
+                  "decoratedName": "?adauga_repo@RepoPFile@@UEAAXAEBVProdus@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'p' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 6,
+                  "endLine": 14,
+                  "endColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "UI::tipareste",
+                  "decoratedName": "?tipareste@UI@@AEAAXAEBV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 14,
+                            "startColumn": 17
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer '(this->UI::service)' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                },
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 13,
+                  "endLine": 67,
+                  "endColumn": 35
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "UI::filtru",
+                  "decoratedName": "?filtru@UI@@AEAAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 53,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 54,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 54,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 55,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 56,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 57,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 57,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 58,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 59,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 60,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 61,
+                            "startColumn": 20
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 61,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 61,
+                            "startColumn": 20
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 63,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 63,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 64,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 64,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 65,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 66,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 67,
+                            "startColumn": 35
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 67,
+                            "startColumn": 35
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 67,
+                            "startColumn": 20
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                },
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 35
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "UI::filtru",
+                  "decoratedName": "?filtru@UI@@AEAAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 53,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 54,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 54,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 55,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 56,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 57,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 57,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 63,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 63,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 64,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 64,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 65,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 66,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 67,
+                            "startColumn": 35
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'allotemp.4' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                },
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 41
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "UI::filtru",
+                  "decoratedName": "?filtru@UI@@AEAAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 53,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 54,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 54,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 55,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 56,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 57,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 57,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 63,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 63,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 69,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 69,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 70,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 70,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 71,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 72,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 73,
+                            "startColumn": 41
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer '(this->UI::service)' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                },
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 14,
+                  "endLine": 84,
+                  "endColumn": 40
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "UI::sortare_ui",
+                  "decoratedName": "?sortare_ui@UI@@AEAAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 76,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 77,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 77,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 78,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 79,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 80,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 80,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 81,
+                            "startColumn": 20
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 81,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 81,
+                            "startColumn": 20
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 82,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 82,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 84,
+                            "startColumn": 21
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                },
+                "region": {
+                  "startLine": 108,
+                  "startColumn": 29
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "UI::adauga_cos",
+                  "decoratedName": "?adauga_cos@UI@@AEAAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 102,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 103,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 103,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 103,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 103,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 104,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 105,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 106,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 107,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 108,
+                            "startColumn": 35
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 108,
+                            "startColumn": 35
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 108,
+                            "startColumn": 29
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                },
+                "region": {
+                  "startLine": 108,
+                  "startColumn": 35
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "UI::adauga_cos",
+                  "decoratedName": "?adauga_cos@UI@@AEAAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 102,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 103,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 103,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 103,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 103,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 104,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 105,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 106,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 107,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 108,
+                            "startColumn": 35
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer '(this->UI::service)' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                },
+                "region": {
+                  "startLine": 114,
+                  "startColumn": 28,
+                  "endLine": 114,
+                  "endColumn": 45
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "UI::vizulizare_cos",
+                  "decoratedName": "?vizulizare_cos@UI@@AEAAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 111,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 112,
+                            "startColumn": 27
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 112,
+                            "startColumn": 27
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 113,
+                            "startColumn": 20
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 113,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 114,
+                            "startColumn": 45
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer '(this->UI::service)' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                },
+                "region": {
+                  "startLine": 159,
+                  "startColumn": 15,
+                  "endLine": 159,
+                  "endColumn": 38
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "UI::start",
+                  "decoratedName": "?start@UI@@QEAAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+                          },
+                          "region": {
+                            "startLine": 159,
+                            "startColumn": 22
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.35.32215.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/Produs.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "7b477d85f383a742e70b5c5f3a92dd7595910dcc0013c9d17b3050e88ad7a43c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/RepoPFile.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "f31250bf815694494a6573d0edc10f8eb1428a43393b54df603402a696424837"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/UI.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "23d005ba16d3c115441d387dea0c703baefe1991bdf95c337081a5c4832d97f4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/bozga/source/repos/magazin produse/lab_4_7_oop - copy/lab_4_7_oop/ui.h"
+          },
+          "hashes": {
+            "sha-256": "2cdddf90e000f70e46a6797e34a78abd6bac5ca097ca0bd7062533dfbc8a6589"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/bozga/source/repos/magazin produse/lab_4_7_oop - copy/lab_4_7_oop/service_magazin.h"
+          },
+          "hashes": {
+            "sha-256": "7038dd5e3fbb11c55def15ccdb58a4fcbc363761afca00ab4061763d15559403"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/bozga/source/repos/magazin produse/lab_4_7_oop - copy/lab_4_7_oop/validator.h"
+          },
+          "hashes": {
+            "sha-256": "49b359bdc8cad28ee992bbeb70a763c21e96810eda7fc960e3996bd9a54867cd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/bozga/source/repos/magazin produse/lab_4_7_oop - copy/lab_4_7_oop/repo_produse.h"
+          },
+          "hashes": {
+            "sha-256": "64ce1043ee5b11e0155bb7369c82c23e622a9b6eded75701cd183fe923baae52"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/bozga/source/repos/magazin produse/lab_4_7_oop - copy/lab_4_7_oop/cos.h"
+          },
+          "hashes": {
+            "sha-256": "c70d8877c70483ed5ae370fe92c638840b388f6dbf7dce3fe1636c3eeb01128e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/bozga/source/repos/magazin produse/lab_4_7_oop - copy/lab_4_7_oop/undo.h"
+          },
+          "hashes": {
+            "sha-256": "e6630bf04cf13edb5afefc4b2fc4f3e01f0b60eb3e0a9f952e46dc064c8946c4"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Produs.h</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class Produs', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>Produs::{ctor}</FUNCTION>
+    <DECORATED>??0Produs@@QEAA@AEBV0@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>RepoPFile.h</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26436</DEFECTCODE>
+    <DESCRIPTION>The type 'class RepoPFile' with a virtual function needs either public virtual or protected non-virtual destructor (c.35).</DESCRIPTION>
+    <FUNCTION>RepoPFile::adauga_repo</FUNCTION>
+    <DECORATED>?adauga_repo@RepoPFile@@UEAAXAEBVProdus@@@Z</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>UI.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'p' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>UI::tipareste</FUNCTION>
+    <DECORATED>?tipareste@UI@@AEAAXAEBV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>14</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>UI.cpp</FILENAME>
+      <LINE>67</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer '(this-&gt;UI::service)' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>UI::filtru</FUNCTION>
+    <DECORATED>?filtru@UI@@AEAAXXZ</DECORATED>
+    <FUNCLINE>53</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>58</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>59</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>60</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>61</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>61</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>61</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>64</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>64</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>65</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>66</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>67</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>67</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>67</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>UI.cpp</FILENAME>
+      <LINE>67</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>UI::filtru</FUNCTION>
+    <DECORATED>?filtru@UI@@AEAAXXZ</DECORATED>
+    <FUNCLINE>53</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>64</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>64</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>65</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>66</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>67</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>UI.cpp</FILENAME>
+      <LINE>73</LINE>
+      <COLUMN>40</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.4' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>UI::filtru</FUNCTION>
+    <DECORATED>?filtru@UI@@AEAAXXZ</DECORATED>
+    <FUNCLINE>53</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>69</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>69</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>71</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>72</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>40</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>UI.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer '(this-&gt;UI::service)' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>UI::sortare_ui</FUNCTION>
+    <DECORATED>?sortare_ui@UI@@AEAAXXZ</DECORATED>
+    <FUNCLINE>76</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>76</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>77</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>77</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>78</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>79</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>80</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>80</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>82</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>82</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>UI.cpp</FILENAME>
+      <LINE>108</LINE>
+      <COLUMN>28</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>UI::adauga_cos</FUNCTION>
+    <DECORATED>?adauga_cos@UI@@AEAAXXZ</DECORATED>
+    <FUNCLINE>102</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>102</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>106</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>107</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>108</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>108</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>108</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>UI.cpp</FILENAME>
+      <LINE>108</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>UI::adauga_cos</FUNCTION>
+    <DECORATED>?adauga_cos@UI@@AEAAXXZ</DECORATED>
+    <FUNCLINE>102</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>102</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>103</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>106</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>107</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>108</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>UI.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>44</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer '(this-&gt;UI::service)' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>UI::vizulizare_cos</FUNCTION>
+    <DECORATED>?vizulizare_cos@UI@@AEAAXXZ</DECORATED>
+    <FUNCLINE>111</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>111</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>112</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>112</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>44</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>UI.cpp</FILENAME>
+      <LINE>159</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer '(this-&gt;UI::service)' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>UI::start</FUNCTION>
+    <DECORATED>?start@UI@@QEAAXXZ</DECORATED>
+    <FUNCLINE>147</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>UI.cpp</FILENAME>
+        <LINE>159</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

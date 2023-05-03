@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Produs.h</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class Produs', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>Produs::{ctor}</FUNCTION>
+    <DECORATED>??0Produs@@QEAA@AEBV0@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Cos.cpp</FILENAME>
+      <LINE>37</LINE>
+      <COLUMN>32</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Cos::adauga_produse_random</FUNCTION>
+    <DECORATED>?adauga_produse_random@Cos@@QEAAXV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@H@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>36</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>106</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>108</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>87</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>53</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>57</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Cos.cpp</FILENAME>
+      <LINE>37</LINE>
+      <COLUMN>57</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Cos::adauga_produse_random</FUNCTION>
+    <DECORATED>?adauga_produse_random@Cos@@QEAAXV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@H@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>36</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>106</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>108</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>87</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>53</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>57</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>57</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Cos.cpp</FILENAME>
+      <LINE>40</LINE>
+      <COLUMN>45</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.5' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Cos::adauga_produse_random</FUNCTION>
+    <DECORATED>?adauga_produse_random@Cos@@QEAAXV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@H@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>45</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Cos.cpp</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>33</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.6' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Cos::adauga_produse_random</FUNCTION>
+    <DECORATED>?adauga_produse_random@Cos@@QEAAXV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@H@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>36</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>106</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>108</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>87</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>53</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>57</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>40</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>45</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>45</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>107</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>109</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>88</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>54</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>58</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Cos.cpp</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>58</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.7' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Cos::adauga_produse_random</FUNCTION>
+    <DECORATED>?adauga_produse_random@Cos@@QEAAXV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@H@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>36</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>106</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>108</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>87</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>53</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>57</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>40</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>45</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>45</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>107</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>109</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>88</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>54</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>58</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Cos.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>58</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

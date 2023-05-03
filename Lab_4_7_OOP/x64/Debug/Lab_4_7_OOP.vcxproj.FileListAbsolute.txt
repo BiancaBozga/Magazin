@@ -1,0 +1,6 @@
+C:\Users\BOZGA\source\repos\Lab_4_7_OOP\x64\Debug\Lab_6_7_OOP.exe.lastcodeanalysissucceeded
+C:\Users\BOZGA\source\repos\Lab_4_7_OOP\Lab_4_7_OOP\x64\Debug\NativeCodeAnalysis.read.1.tlog
+C:\Users\BOZGA\source\repos\Lab_4_7_OOP - Copy\x64\Debug\Lab_6_7_OOP.exe.lastcodeanalysissucceeded
+C:\Users\BOZGA\source\repos\Lab_4_7_OOP - Copy\Lab_4_7_OOP\x64\Debug\NativeCodeAnalysis.read.1.tlog
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\x64\Debug\Lab_6_7_OOP.exe.lastcodeanalysissucceeded
+C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\x64\Debug\NativeCodeAnalysis.read.1.tlog

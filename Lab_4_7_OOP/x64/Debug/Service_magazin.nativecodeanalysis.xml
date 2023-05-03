@@ -1,0 +1,3844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Produs.h</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class Produs', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>Produs::{ctor}</FUNCTION>
+    <DECORATED>??0Produs@@QEAA@AEBV0@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>RepoPFile.h</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26436</DEFECTCODE>
+    <DESCRIPTION>The type 'class RepoPFile' with a virtual function needs either public virtual or protected non-virtual destructor (c.35).</DESCRIPTION>
+    <FUNCTION>RepoPFile::adauga_repo</FUNCTION>
+    <DECORATED>?adauga_repo@RepoPFile@@UEAAXAEBVProdus@@@Z</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>45</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>ServiceP::generalSort</FUNCTION>
+    <DECORATED>?generalSort@ServiceP@@AEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@P6A_NAEBVProdus@@0@Z@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>39</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>ServiceP::generalSort</FUNCTION>
+    <DECORATED>?generalSort@ServiceP@@AEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@P6A_NAEBVProdus@@0@Z@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>ServiceP::generalSort</FUNCTION>
+    <DECORATED>?generalSort@ServiceP@@AEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@P6A_NAEBVProdus@@0@Z@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>ServiceP::generalSort</FUNCTION>
+    <DECORATED>?generalSort@ServiceP@@AEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@P6A_NAEBVProdus@@0@Z@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>ServiceP::generalSort</FUNCTION>
+    <DECORATED>?generalSort@ServiceP@@AEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@P6A_NAEBVProdus@@0@Z@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>ServiceP::generalSort</FUNCTION>
+    <DECORATED>?generalSort@ServiceP@@AEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@P6A_NAEBVProdus@@0@Z@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>90</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::filtrare_producator</FUNCTION>
+    <DECORATED>?filtrare_producator@ServiceP@@QEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z</DECORATED>
+    <FUNCLINE>26</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>27</LINE>
+        <COLUMN>90</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>27</LINE>
+        <COLUMN>90</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'p' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::filtreaza</FUNCTION>
+    <DECORATED>?filtreaza@ServiceP@@QEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@V?$function@$$A6A_NAEBVProdus@@@Z@3@@Z</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>33</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>72</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::filtrare_nume</FUNCTION>
+    <DECORATED>?filtrare_nume@ServiceP@@QEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z</DECORATED>
+    <FUNCLINE>37</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>72</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>72</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>42</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function '`ServiceP::filtrare_pret'::`2'::&lt;lambda_1&gt;::operator()' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>ServiceP::filtrare_pret::&lt;lambda_1&gt;::()</FUNCTION>
+    <DECORATED>??R&lt;lambda_1&gt;@?1??filtrare_pret@ServiceP@@QEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@M@Z@QEBA@AEBVProdus@@@Z</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>71</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::filtrare_pret</FUNCTION>
+    <DECORATED>?filtrare_pret@ServiceP@@QEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@M@Z</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>71</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>71</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>49</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26822</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a null pointer 'nullptr' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::sorteaza_dupa_nume_si_tip::&lt;lambda_1&gt;::&lt;lambda_invoker_cdecl&gt;</FUNCTION>
+    <DECORATED>?&lt;lambda_invoker_cdecl&gt;@&lt;lambda_1&gt;@?1??sorteaza_dupa_nume_si_tip@ServiceP@@QEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@XZ@SA@AEBVProdus@@0@Z</DECORATED>
+    <FUNCLINE>49</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>49</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26822</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a null pointer 'nullptr' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::sorteaza_dupa_nume_si_tip::&lt;lambda_1&gt;::&lt;lambda_invoker_vectorcall&gt;</FUNCTION>
+    <DECORATED>?&lt;lambda_invoker_vectorcall&gt;@&lt;lambda_1&gt;@?1??sorteaza_dupa_nume_si_tip@ServiceP@@QEAA?AV?$vector@VProdus@@V?$allocator@VProdus@@@std@@@std@@XZ@SQ@AEBVProdus@@0@Z</DECORATED>
+    <FUNCLINE>49</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>55</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::undo</FUNCTION>
+    <DECORATED>?undo@ServiceP@@QEAAXXZ</DECORATED>
+    <FUNCLINE>53</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>56</LINE>
+      <COLUMN>29</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'result.-&gt;' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::undo</FUNCTION>
+    <DECORATED>?undo@ServiceP@@QEAAXXZ</DECORATED>
+    <FUNCLINE>53</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>63</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::adauga_service</FUNCTION>
+    <DECORATED>?adauga_service@ServiceP@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00M@Z</DECORATED>
+    <FUNCLINE>62</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>62</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>63</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::adauga_service</FUNCTION>
+    <DECORATED>?adauga_service@ServiceP@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00M@Z</DECORATED>
+    <FUNCLINE>62</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>62</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>63</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.4' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::adauga_service</FUNCTION>
+    <DECORATED>?adauga_service@ServiceP@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00M@Z</DECORATED>
+    <FUNCLINE>62</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>62</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>70</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::cauta_produs</FUNCTION>
+    <DECORATED>?cauta_produs@ServiceP@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>69</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>70</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::cauta_produs</FUNCTION>
+    <DECORATED>?cauta_produs@ServiceP@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>69</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>74</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::modifica_service</FUNCTION>
+    <DECORATED>?modifica_service@ServiceP@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0M0@Z</DECORATED>
+    <FUNCLINE>73</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>74</LINE>
+      <COLUMN>29</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::modifica_service</FUNCTION>
+    <DECORATED>?modifica_service@ServiceP@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0M0@Z</DECORATED>
+    <FUNCLINE>73</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>75</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::modifica_service</FUNCTION>
+    <DECORATED>?modifica_service@ServiceP@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0M0@Z</DECORATED>
+    <FUNCLINE>73</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>75</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.4' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::modifica_service</FUNCTION>
+    <DECORATED>?modifica_service@ServiceP@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0M0@Z</DECORATED>
+    <FUNCLINE>73</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>75</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.5' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::modifica_service</FUNCTION>
+    <DECORATED>?modifica_service@ServiceP@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0M0@Z</DECORATED>
+    <FUNCLINE>73</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>73</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::sterge_service</FUNCTION>
+    <DECORATED>?sterge_service@ServiceP@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z</DECORATED>
+    <FUNCLINE>80</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>80</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>29</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::sterge_service</FUNCTION>
+    <DECORATED>?sterge_service@ServiceP@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z</DECORATED>
+    <FUNCLINE>80</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>80</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>88</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::adauga_cos_service</FUNCTION>
+    <DECORATED>?adauga_cos_service@ServiceP@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z</DECORATED>
+    <FUNCLINE>87</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>88</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::adauga_cos_service</FUNCTION>
+    <DECORATED>?adauga_cos_service@ServiceP@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z</DECORATED>
+    <FUNCLINE>87</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>90</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::adauga_cos_service</FUNCTION>
+    <DECORATED>?adauga_cos_service@ServiceP@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z</DECORATED>
+    <FUNCLINE>87</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>90</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>97</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer '&lt;begin&gt;$L0' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::cate_produse</FUNCTION>
+    <DECORATED>?cate_produse@ServiceP@@QEAA?AV?$map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HU?$less@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@std@@@2@@std@@XZ</DECORATED>
+    <FUNCLINE>95</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>97</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>99</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer '&lt;begin&gt;$L1' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::cate_produse</FUNCTION>
+    <DECORATED>?cate_produse@ServiceP@@QEAA?AV?$map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HU?$less@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@std@@@2@@std@@XZ</DECORATED>
+    <FUNCLINE>95</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>99</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>105</LINE>
+      <COLUMN>39</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>ServiceP::adauga_produse_random_service</FUNCTION>
+    <DECORATED>?adauga_produse_random_service@ServiceP@@QEAA_KH@Z</DECORATED>
+    <FUNCLINE>104</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>31</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>39</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>118</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>142</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>144</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>118</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26458</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26458</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>142</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26458</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>144</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26458</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>110</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>109</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>141</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.17' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>109</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>111</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>141</LINE>
+      <COLUMN>30</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.18' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>109</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>111</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>143</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.19' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>109</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>111</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>143</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>143</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>143</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>143</LINE>
+      <COLUMN>30</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.20' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>teste_adauga</FUNCTION>
+    <DECORATED>?teste_adauga@@YAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>109</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>111</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>129</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>138</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>139</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>140</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>141</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>142</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>143</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>156</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>testFiltrare</FUNCTION>
+    <DECORATED>?testFiltrare@@YAXXZ</DECORATED>
+    <FUNCLINE>154</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>154</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>156</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>156</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>166</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.13' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>testFiltrare</FUNCTION>
+    <DECORATED>?testFiltrare@@YAXXZ</DECORATED>
+    <FUNCLINE>154</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>154</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>156</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>156</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>156</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>156</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>158</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>159</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>159</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>160</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>160</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>165</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>165</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>165</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>165</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>165</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>166</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>167</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.15' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>testFiltrare</FUNCTION>
+    <DECORATED>?testFiltrare@@YAXXZ</DECORATED>
+    <FUNCLINE>154</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>154</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>156</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>156</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>156</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>156</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>158</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>159</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>159</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>160</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>160</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>161</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>162</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>163</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>164</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>165</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>165</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>165</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>165</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>165</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>166</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>166</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>166</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>166</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>166</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>166</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>166</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>167</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>188</LINE>
+      <COLUMN>41</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>191</LINE>
+      <COLUMN>36</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>194</LINE>
+      <COLUMN>43</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>188</LINE>
+      <COLUMN>41</COLUMN>
+    </SFA>
+    <DEFECTCODE>26458</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>191</LINE>
+      <COLUMN>36</COLUMN>
+    </SFA>
+    <DEFECTCODE>26458</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>194</LINE>
+      <COLUMN>43</COLUMN>
+    </SFA>
+    <DEFECTCODE>26458</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+      <FILENAME>Service_magazin.cpp</FILENAME>
+      <LINE>179</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>176</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>176</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>177</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>177</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>179</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\BOZGA\source\repos\Magazin produse\Lab_4_7_OOP - Copy\Lab_4_7_OOP\</FILEPATH>
+        <FILENAME>Service_magazin.cpp</FILENAME>
+        <LINE>179</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

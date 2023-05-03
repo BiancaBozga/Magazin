@@ -1,0 +1,496 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26432",
+          "message": {
+            "text": "If you define or delete any default operation in the type 'class Produs', define or delete them all (c.21)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/Produs.h"
+                },
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 3,
+                  "endLine": 36,
+                  "endColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Produs::{ctor}",
+                  "decoratedName": "??0Produs@@QEAA@AEBV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'msg' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                },
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 3,
+                  "endLine": 18,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "<<",
+                  "decoratedName": "??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBVValidateException@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 18,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                },
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testValidator",
+                  "decoratedName": "?testValidator@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 23,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 24,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 12
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                },
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testValidator",
+                  "decoratedName": "?testValidator@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 23,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 24,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                },
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 18
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testValidator",
+                  "decoratedName": "?testValidator@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 23,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 24,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 9
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.35.32215.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/Produs.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "7b477d85f383a742e70b5c5f3a92dd7595910dcc0013c9d17b3050e88ad7a43c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/BOZGA/source/repos/Magazin produse/Lab_4_7_OOP - Copy/Lab_4_7_OOP/validator.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "704d07a39ffc4887a03a8fdb14b9cf689e591939b71504e7d773325c48b317df"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/bozga/source/repos/magazin produse/lab_4_7_oop - copy/lab_4_7_oop/validator.h"
+          },
+          "hashes": {
+            "sha-256": "49b359bdc8cad28ee992bbeb70a763c21e96810eda7fc960e3996bd9a54867cd"
+          }
+        }
+      ]
+    }
+  ]
+}

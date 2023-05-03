@@ -1,0 +1,21 @@
+[2023-04-03 21:19:07] [info] Start Program:
+Path:"C:\Users\BOZGA\source\repos\Lab_4_7_OOP\x64\Debug\Lab_6_7_OOP.exe"
+Arguments:
+Working directory: "C:\Users\BOZGA\source\repos\Lab_4_7_OOP\Lab_4_7_OOP\"
+Modules: Selected: C:\Users\BOZGA\source\repos\Lab_4_7_OOP\x64\Debug\Lab_6_7_OOP.exe Excluded: 
+Sources: Selected: C:\Users\BOZGA\source\repos\Lab_4_7_OOP\Lab_4_7_OOP Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\BOZGA\AppData\Local\Temp\jxrkmniw.pn1 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-04-03 21:19:07] [info] Module: C:\Users\BOZGA\source\repos\Lab_4_7_OOP\x64\Debug\Lab_6_7_OOP.exe is selected because it matches selected pattern: C:\Users\BOZGA\source\repos\Lab_4_7_OOP\x64\Debug\Lab_6_7_OOP.exe
+[2023-04-03 21:19:07] [info] ----------------------------------------------------
+[2023-04-03 21:19:07] [info] Coverage binary generated in file: C:\Users\BOZGA\AppData\Local\Temp\jxrkmniw.pn1
+[2023-04-03 21:19:07] [info] ----------------------------------------------------
